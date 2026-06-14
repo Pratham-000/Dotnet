@@ -1,0 +1,17 @@
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/BL.deps.json
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/BL.dll
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/BL.pdb
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/DAL.dll
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/DTO.dll
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/DAL.pdb
+/Users/prathamarora/EF_Core/Employee_Management/BL/bin/Debug/net10.0/DTO.pdb
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.csproj.AssemblyReference.cache
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.AssemblyInfoInputs.cache
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.AssemblyInfo.cs
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.csproj.CoreCompileInputs.cache
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.csproj.Up2Date
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.dll
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/refint/BL.dll
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/BL.pdb
+/Users/prathamarora/EF_Core/Employee_Management/BL/obj/Debug/net10.0/ref/BL.dll
